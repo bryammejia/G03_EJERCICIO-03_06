@@ -100,12 +100,14 @@
                   <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
                   <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="lblFiguras" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="cboFigura" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="btnGraficar" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
-                      <Component id="txtAncho" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="lblAncho" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblFiguras" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cboFigura" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtAncho" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblAncho" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
                   </Group>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
