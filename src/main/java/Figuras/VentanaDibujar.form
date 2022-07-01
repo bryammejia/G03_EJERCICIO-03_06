@@ -113,9 +113,9 @@
                       <Component id="cboColores" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="lblAlto" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="txtAlto" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="btnLimpiar" alignment="3" max="32767" attributes="0"/>
+                      <Component id="btnLimpiar" alignment="3" pref="23" max="32767" attributes="0"/>
                   </Group>
-                  <EmptySpace type="unrelated" pref="22" max="32767" attributes="0"/>
+                  <EmptySpace type="unrelated" pref="21" max="32767" attributes="0"/>
                   <Component id="panelDibujar" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
