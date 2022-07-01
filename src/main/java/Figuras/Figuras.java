@@ -9,7 +9,7 @@ import java.awt.Point;
  *
  * @author USER
  */
-public class Figura {
+public class Figuras {
     
     private String tipo;
     private Color color;
